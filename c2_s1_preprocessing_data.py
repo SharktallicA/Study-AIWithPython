@@ -1,5 +1,5 @@
 # PREPROCESSING DATA
-# The act of formatting data in a certain way for machine learning algorithms
+# Formatting data in a certain way for machine learning algorithms
 
 import numpy as np
 from sklearn import preprocessing
